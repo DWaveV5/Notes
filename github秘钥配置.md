@@ -21,4 +21,3 @@ cat id_rsa.pub
 复制id_rsa.pub内容，添加至github
 
 git添加位置 **settings --> ssh and gpg keys --> new ssh key**
-
